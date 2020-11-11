@@ -2,7 +2,6 @@
  *  Read the readme.md for more detail about the problem.
  *  You can find this problem at https://leetcode.com/problems/merge-two-sorted-lists/
  */
-#include <iostream>
 
 /*
  * Quick struct representing a node in a liked list
