@@ -15,4 +15,4 @@ We want to merge both list and keep the ascended order. So the result would be `
 ![Expected result](https://i.imgur.com/rD59T7w.png)
 
 ***
-You can find this problem on [LeetCode](You can find this problem at https://leetcode.com/problems/merge-two-sorted-lists/).
+You can find this problem on [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/).
