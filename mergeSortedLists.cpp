@@ -1,7 +1,8 @@
 /*
  *  Read the readme.md for more detail about the problem.
- *  You can find this problem at https://leetcode.com/problems/merge-two-sorted-lists/
+ *  You can find this problem at https://leetcode.com/problems/break-a-palindrome/
  */
+#include <cstdlib>
 
 /*
  * Quick struct representing a node in a liked list
@@ -16,7 +17,7 @@ struct ListNode{
  * THE MERGE FUNCTION
  */
 ListNode* mergeTwoLists(ListNode* l1, ListNode* l2){
-    ListNode* dummy(0);                 //We create a dummy in case l1 or l2 are empty
+    ListNode dummy(0);                  //We create a dummy in case l1 or l2 are empty
                                         //The value doesn't matter, it'll not be compared to anything
     ListNode* last = &dummy;            //Initially the last node will be the dummy
 
